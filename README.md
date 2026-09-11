@@ -67,4 +67,5 @@ Collection of Data Structures and Algorithms problems and solutions.
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Email](YOUR_EMAIL)
+[LinkedIn]((https://www.linkedin.com/in/prerana-rajput/)) • [Email](prerana.rajput343@gmail.com
+)
