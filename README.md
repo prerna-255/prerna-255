@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋, I'm Prerna Rajput
 
-<!--
-**prerna-255/prerna-255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building practical software solutions, exploring AI-powered systems, and turning ideas into useful applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Working On
+
+* 🤖 AI-powered software development tools
+* 🌐 Full-stack web applications
+* 🧠 Data Structures & Algorithms
+* ☁️ Exploring scalable backend and cloud technologies
+
+## 🛠️ Tech Stack
+
+### Languages
+
+Python • Java • C++ • JavaScript • SQL
+
+### Frontend
+
+React • Next.js • HTML • CSS
+
+### Backend
+
+Node.js • FastAPI
+
+### Databases
+
+PostgreSQL • MySQL
+
+### Tools
+
+Git • GitHub • Docker • VS Code
+
+## ⭐ Featured Projects
+
+### 💰 FinPilot
+
+AI-powered personal finance platform built with Next.js, FastAPI, PostgreSQL, and Gemini AI.
+
+### 🐛 AI Software Bug Investigator
+
+An AI-powered developer tool designed to identify, analyze, and explain software bugs.
+
+### 🔍 AI Dependency Detective
+
+A tool for analyzing project dependencies and identifying potentially risky or problematic dependencies.
+
+### 🧩 DSA Solutions
+
+Collection of Data Structures and Algorithms problems and solutions.
+
+## 🏆 Achievements & Activities
+
+* Participated in technical hackathons and project competitions
+* Worked on AI and full-stack development projects
+* Active in technical communities and developer activities
+
+## 📚 Currently Learning
+
+* Artificial Intelligence & Generative AI
+* Backend Development
+* System Design
+* Cloud & DevOps
+* Advanced DSA
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [Email](YOUR_EMAIL)
