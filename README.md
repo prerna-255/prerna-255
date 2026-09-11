@@ -1,15 +1,15 @@
 # Hi 👋, I'm Prerna Rajput
 
-### Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
+### 💻 Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
-I enjoy building practical software solutions, exploring AI-powered systems, and turning ideas into useful applications.
+I enjoy building practical software solutions, exploring AI-powered systems, and turning ideas into real-world applications.
 
 ## 🚀 What I'm Currently Working On
 
 * 🤖 AI-powered software development tools
 * 🌐 Full-stack web applications
 * 🧠 Data Structures & Algorithms
-* ☁️ Exploring scalable backend and cloud technologies
+* ☁️ Backend, cloud, and scalable systems
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +29,7 @@ Node.js • FastAPI
 
 PostgreSQL • MySQL
 
-### Tools
+### Tools & Platforms
 
 Git • GitHub • Docker • VS Code
 
@@ -37,25 +37,25 @@ Git • GitHub • Docker • VS Code
 
 ### 💰 FinPilot
 
-AI-powered personal finance platform built with Next.js, FastAPI, PostgreSQL, and Gemini AI.
+AI-powered personal finance platform built with **Next.js, FastAPI, PostgreSQL, and Gemini AI**.
 
 ### 🐛 AI Software Bug Investigator
 
-An AI-powered developer tool designed to identify, analyze, and explain software bugs.
+AI-powered developer tool that identifies, analyzes, and explains software bugs to help developers debug faster.
 
 ### 🔍 AI Dependency Detective
 
-A tool for analyzing project dependencies and identifying potentially risky or problematic dependencies.
+A developer tool that analyzes project dependencies and identifies potentially risky or problematic dependencies.
 
 ### 🧩 DSA Solutions
 
-Collection of Data Structures and Algorithms problems and solutions.
+A collection of Data Structures and Algorithms problems implemented while strengthening problem-solving skills.
 
 ## 🏆 Achievements & Activities
 
 * Participated in technical hackathons and project competitions
-* Worked on AI and full-stack development projects
-* Active in technical communities and developer activities
+* Built AI, full-stack, and software engineering projects
+* Contributed to and participated in technical developer communities
 
 ## 📚 Currently Learning
 
@@ -63,9 +63,8 @@ Collection of Data Structures and Algorithms problems and solutions.
 * Backend Development
 * System Design
 * Cloud & DevOps
-* Advanced DSA
+* Advanced Data Structures & Algorithms
 
 ## 📫 Connect With Me
 
-[LinkedIn]((https://www.linkedin.com/in/prerana-rajput/)) • [Email](prerana.rajput343@gmail.com
-)
+[LinkedIn](https://www.linkedin.com/in/prerana-rajput/) • [Email](mailto:prerana.rajput343@gmail.com)
