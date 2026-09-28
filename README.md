@@ -128,13 +128,16 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/stats.svg"
-    width="48%"
+    width="70%"
     alt="GitHub Statistics"
   />
+</p>
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/top-langs.svg"
-    width="48%"
-    alt="Top Languages"
+    width="70%"
+    alt="Most Used Languages"
   />
 </p>
 
