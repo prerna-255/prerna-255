@@ -78,7 +78,7 @@
 - 🧠 Strengthening my foundation in **DSA, DBMS, OOP & Operating Systems**
 - 🛠️ I enjoy turning ideas into **functional, scalable & user-focused products**
 - 👩‍💼 **Secretary, ACM Student Chapter, PCCOE**
-- 🏆 Solved **50+ DSA problems** across LeetCode and CodeChef
+- 🏆 Solved **80+ DSA problems** across LeetCode and CodeChef
 - 🌱 Exploring **Generative AI, RAG systems & intelligent applications**
 - 💡 Open to **internships, collaborations and interesting technical projects**
 
@@ -161,10 +161,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prerna-255&bg_color=00000000&color=A855F7&line=8B5CF6&point=9333EA&area=true&hide_border=true&custom_title=Prerana's%20Contribution%20Graph"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
+  src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/activity-graph.svg"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
 </p>
 
 <br>
