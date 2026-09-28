@@ -1,0 +1,38 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: prerna-255
+          options: bg_color=00000000&color=A855F7&line=8B5CF6&point=9333EA&area=true&hide_border=true&custom_title=Prerana%27s%20Contribution%20Graph
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit activity graph
+        run: |
+          git add profile/activity-graph.svg
+
+          if git diff --cached --quiet -- profile/activity-graph.svg; then
+            echo "No activity graph changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update activity graph"
+          git push
