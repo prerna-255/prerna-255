@@ -7,21 +7,23 @@
 <!-- ========================= HERO BANNER ========================= -->
 
 <p align="center">
+ <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Prerana%20Rajput&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:6C2BD9,50:8B5CF6,100:A855F7"
+      srcset="https://raw.githubusercontent.com/prerna-255/prerna-255/main/art/header-dark.png"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Prerana%20Rajput&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:7C3AED,50:9333EA,100:C084FC"
+      srcset="https://raw.githubusercontent.com/prerna-255/prerna-255/main/art/header-light.png"
     />
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Prerana%20Rajput&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:7C3AED,50:9333EA,100:C084FC"
+      src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/art/header-dark.png"
       width="100%"
-      alt="Prerana Rajput banner"
+      alt="Prerana Rajput GitHub Profile Banner"
     />
   </picture>
+</p>
 </p>
 
 <!-- ========================= INTRO ========================= -->
