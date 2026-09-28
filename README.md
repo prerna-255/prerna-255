@@ -126,13 +126,13 @@
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=prerna-255&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=8B5CF6&text_color=777777"
+    src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/stats.svg"
     height="170"
     alt="GitHub Statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-255&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=777777"
+    src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/top-langs.svg"
     height="170"
     alt="Top Languages"
   />
