@@ -87,7 +87,7 @@
 <td width="35%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=prerna-255&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=8B5CF6&text_color=777777&rank_icon=github"
+  src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/stats.svg"
   width="100%"
   alt="Prerana's GitHub Stats"
 />
