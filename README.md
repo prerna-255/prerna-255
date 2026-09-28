@@ -119,24 +119,23 @@
 
 <br>
 
+
+
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-
   <img
     src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/stats.svg"
-    height="170"
+    width="48%"
     alt="GitHub Statistics"
   />
-
   <img
     src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/top-langs.svg"
-    height="170"
+    width="48%"
     alt="Top Languages"
   />
-
 </p>
 
 <br>
