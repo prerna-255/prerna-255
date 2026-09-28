@@ -169,24 +169,26 @@
 
 <br>
 
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+
+<!-- ======================== 3D CONTRIBUTIONS ======================== -->
+
+<h2 align="center">🏙️ 3D Contribution Skyline</h2>
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/prerna-255/prerna-255/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile-3d-contrib/profile-night-rainbow.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/prerna-255/prerna-255/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile-3d-contrib/profile-green-animate.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/prerna-255/prerna-255/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile-3d-contrib/profile-green-animate.svg"
       width="95%"
-      alt="GitHub Contribution Snake"
+      alt="3D GitHub Contribution Calendar"
     />
   </picture>
 </p>
