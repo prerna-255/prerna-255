@@ -147,10 +147,10 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=prerna-255&theme=transparent&hide_border=true&ring=A855F7&fire=9333EA&currStreakLabel=A855F7&sideLabels=8B5CF6&currStreakNum=9333EA&sideNums=7C3AED&dates=777777"
-    width="70%"
-    alt="GitHub Streak"
-  />
+  src="https://raw.githubusercontent.com/prerna-255/prerna-255/main/profile/streak.svg"
+  width="70%"
+  alt="GitHub Streak"
+/>
 </p>
 
 <br>
